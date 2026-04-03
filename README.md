@@ -8,8 +8,8 @@
 ## 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp" /><br>
-  <img src="https://skillicons.dev/icons?i=ts,r" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,r" /><br>
+  <img src="https://skillicons.dev/icons?i=ts,js,html" />
 </p>
 <hr>
 
