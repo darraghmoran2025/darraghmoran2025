@@ -9,7 +9,6 @@
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,r" /><br>
-  <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 </p>
 <hr>
 
